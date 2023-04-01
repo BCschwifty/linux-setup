@@ -1,6 +1,8 @@
 # linux-setup
 personal linux set up script
 
+This script has been tested on Ubuntu versions 18.04, 20.04. 22.04
+
 *** please note the bellow is my personal prefference as a novice linux user ***
 
 run this script as sudo
