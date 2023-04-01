@@ -7,9 +7,10 @@ run this script as sudo
 ```highlight
 sudo su
 ```
-type sudo password then run the following script.
+type sudo password, then run the following script.
 
 ```higlight
-wget -qO- "https://github.com/BCschwifty/linux-setup/releases/download/V0.2/setup.sh" | bash
+wget -qO- "https://github.com/BCschwifty/linux-setup/releases/download/V1.1/setup.sh" | bash
 ```
 
+** Please note the script posted above will always be updated to use the most recent release.
